@@ -48,7 +48,7 @@ Ollama on your laptop is a great option if you have a limited budget, concerns a
 **Data:** PubMed metadata on JAMA articles published between 2013 and 2023 downloaded as a .nbib citation manager file
 Tools: Python, Ollama, LangChain, Pandas, and Mistral 7b Instruct
 
-**Results:** 24,184 affiliations were processed. Manual evaluation of a random sample of 2,000 affiliations showed 13 errors (0.0.65%), though the results also included 14 examples of successful processing that depended on context that did not appear in the affiliation (e.g. "senior policy service professor at george washington university school of nursing's center for health policy and media." →"Washington, dc").
+**Results:** 24,184 affiliations were processed. Manual evaluation of a random sample of 2,000 affiliations showed 13 errors (0.65%), though the results also included 14 examples of successful processing that depended on context that did not appear in the affiliation (e.g. "senior policy service professor at george washington university school of nursing's center for health policy and media." →"Washington, dc").
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
